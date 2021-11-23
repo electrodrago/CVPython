@@ -5,3 +5,4 @@ This project stores the code involving in the Deep Learning for Computer Vision 
 - The file MNIST.py is a simple introduction to Neural Network with keras.
 - The file XOR_keras.py is a simple implementation of XOR dataset by Keras library.
 - The file convolutions.py is a simple build to convolve an image, which store in Image directory.
+- The file shallownet.py is a simple build of structure INPUT => CONV => RELU => FC model.
